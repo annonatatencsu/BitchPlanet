@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://annonatatencsu.github.io/FeministFutures/img/derivatives/iiif/bitchplanet//BitchPlanetVol1119",
+  "height": 5840,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 365,
+      "width": 240
+    },
+    {
+      "height": 183,
+      "width": 120
+    },
+    {
+      "height": 91,
+      "width": 60
+    },
+    {
+      "height": 46,
+      "width": 30
+    },
+    {
+      "height": 23,
+      "width": 15
+    },
+    {
+      "height": 11,
+      "width": 8
+    },
+    {
+      "height": 6,
+      "width": 4
+    },
+    {
+      "height": 3,
+      "width": 2
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 512
+    }
+  ],
+  "width": 3840
+}
