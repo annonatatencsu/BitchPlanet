@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://annonatatencsu.github.io/FeministFutures/img/derivatives/iiif/bitchplanet//BitchPlanetVol1105",
+  "@id": "https://annonatatencsu.github.io/BitchPlanet/img/derivatives/iiif/bitchplanet//BitchPlanetVol1105",
   "height": 5872,
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
